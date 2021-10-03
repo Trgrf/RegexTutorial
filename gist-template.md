@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+This Tutorial will explain the regex that is used to match emails. The expression for this regex is  /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/. This is useful when validating emails for applications that use Node(inqurier) or MongoDB.
 
 ## Summary
 
