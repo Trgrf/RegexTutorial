@@ -41,4 +41,4 @@ Bracket expressios for email validation in this regex have 3 groups as well. The
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Hey everyone, My name is Adam and I am learning to become a professional Web developer you can view my projects at https://github.com/Trgrf.
