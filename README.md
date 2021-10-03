@@ -1,6 +1,6 @@
 # Regex Tutorial
 ## Description
-This project will explain what the regex componets mean for a regex used for matching an email.
+This project will explain what the regex componets mean for a regex expression used for matching an email.
 
 ## Table of Contents (Optional)
 - [Installation](#installation)
@@ -8,9 +8,9 @@ This project will explain what the regex componets mean for a regex used for mat
 - [Credits](#credits)
 - [License](#license)
 ## Installation
-There is no installation as this project is to explain the logic behind a regex.
+There is no installation as this project is to explain the logic behind a regex expression.
 ## Usage
-To learn exactly what each field within the email matching regex means.
+To learn exactly what each field within the email matching regex expression means.
 ## License
 
 undefined
