@@ -29,6 +29,8 @@ Quantifiers in this regex includes the + operator, which connects the users emai
 
 ### Grouping Constructs
 
+There are three groups within this expression. Group #1 is ([a-z0-9_\.-]+) which is responsible for beginning of an email adress such as adam. Group #2 is ([\da-z\.-]+) is responsible for the email service a user is using such as gmail. Finally we have Group #3 ([a-z\.]{2,6}) which is responsible for the .com. By using the + operator the expression would turn out as adam@gmail.com
+
 ### Bracket Expressions
 
 ### Character Classes
