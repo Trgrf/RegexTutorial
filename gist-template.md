@@ -31,11 +31,14 @@ Quantifiers in this regex includes the + operator, which connects the users emai
 
 There are three groups within this expression. Group #1 is ([a-z0-9_\.-]+) which is responsible for beginning of an email adress such as adam. Group #2 is ([\da-z\.-]+) is responsible for the email service a user is using such as gmail. Finally we have Group #3 ([a-z\.]{2,6}) which is responsible for the .com. By using the + operator the expression would turn out as adam@gmail.com
 
+### Character Classes
+
+The character class in this expression is \d, which matches a single digit that is a digit from 0-9. But it will only match a single digit such as "7", but not "77".
+
 ### Bracket Expressions
 
 Bracket expressios for email validation in this regex have 3 groups as well. The first bracket set is [a-z0-9_\.-], which is matching any letter from a to z and is case senstive. It also matches any number between 0-9 and finally will match the symbols "_" , "-" , and ".". The second bracket set is [\da-z\.-], which matches a single digit from 0-9, any letter from a to z (case senstive), and the symbols "." and "-". The thrid bracket set is [a-z\.] matches any letter from a to z(case senstive) and the symbol ".".
 
-### Character Classes
 
 ### The OR Operator
 
