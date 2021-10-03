@@ -33,6 +33,8 @@ There are three groups within this expression. Group #1 is ([a-z0-9_\.-]+) which
 
 ### Bracket Expressions
 
+Bracket expressios for email validation in this regex have 3 groups as well. The first bracket set is [a-z0-9_\.-], which is matching any letter from a to z and is case senstive. It also matches any number between 0-9 and finally will match the symbols "_" , "-" , and ".". The second bracket set is [\da-z\.-], which matches a single digit from 0-9, any letter from a to z (case senstive), and the symbols "." and "-". The thrid bracket set is [a-z\.] matches any letter from a to z(case senstive) and the symbol ".".
+
 ### Character Classes
 
 ### The OR Operator
