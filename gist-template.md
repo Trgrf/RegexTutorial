@@ -21,6 +21,8 @@ A regular expression is a sequence of characters that defines a search pattern. 
 
 ### Anchors
 
+The anchors within this regex expression are the ^ and $ symbols, ^ refers to the beginning of the string while the dollar sign refers to the strings ending. The (m) known as the multiline is not enabled within this regex expression so the expression ends at the dollar sign.
+
 ### Quantifiers
 
 ### Grouping Constructs
