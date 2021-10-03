@@ -25,6 +25,8 @@ The anchors within this regex expression are the ^ and $ symbols, ^ refers to th
 
 ### Quantifiers
 
+Quantifiers in this regex includes the + operator, which connects the users email name + email service + .com. Another quantifier for this regex includes {2,6}, which will allow a match range between 2-6 characters for the character set of [a-z\.].
+
 ### Grouping Constructs
 
 ### Bracket Expressions
