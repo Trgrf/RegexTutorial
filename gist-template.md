@@ -4,7 +4,7 @@ This Tutorial will explain the regex that is used to match emails. The expressio
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+A regular expression is a sequence of characters that defines a search pattern. This is commonly used to find patterns within a string, find/replace characters within a string or validate an input. This tutortial will go walk through the components of a regex that is used for matching an email.
 
 ## Table of Contents
 
