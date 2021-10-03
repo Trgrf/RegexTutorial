@@ -39,13 +39,6 @@ The character class in this expression is \d, which matches a single digit that 
 
 Bracket expressios for email validation in this regex have 3 groups as well. The first bracket set is [a-z0-9_\.-], which is matching any letter from a to z and is case senstive. It also matches any number between 0-9 and finally will match the symbols "_" , "-" , and ".". The second bracket set is [\da-z\.-], which matches a single digit from 0-9, any letter from a to z (case senstive), and the symbols "." and "-". The thrid bracket set is [a-z\.] matches any letter from a to z(case senstive) and the symbol ".".
 
-
-### The OR Operator
-
-### Flags
-
-### Character Escapes
-
 ## Author
 
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
